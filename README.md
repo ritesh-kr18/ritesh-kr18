@@ -52,5 +52,16 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/ritesh-kumar-rgipt/)
-- Email: riteshsonb18@gmail.com
+<p align="center">
+
+<a href="(https://www.linkedin.com/in/ritesh-kumar-rgipt/)">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:riteshsonb18@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+⚡ *Passionate about solving algorithmic challenges and building impactful software.*
