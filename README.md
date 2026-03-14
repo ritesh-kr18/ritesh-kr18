@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">Algorithm & Problem Solving Enthusiast | Machine Learning Explorer | Full Stack Developer</h3>
+<h3 align="center">Algorithmic Problem Solver | Machine Learning Explorer | Full Stack Developer</h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Explorer;Algorithmic+Problem+Solver;Backend+Developer;Competitive+Programmer&center=true&width=500&height=50">
 </p>
@@ -45,3 +45,15 @@
 </p>
 
 
+## 📊 GitHub Stats
+
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-kr18&show_icons=true&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritesh-kr18&theme=tokyo-night)
+
+## 🌐 Connect With Me
+
+- LinkedIn: ([add your linkedin link](https://www.linkedin.com/in/ritesh-kumar-rgipt/))
+- Email: riteshsonb18@gmail.com
