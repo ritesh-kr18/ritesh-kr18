@@ -53,7 +53,7 @@
 ## 🌐 Connect With Me
 <p>
   
-<a href="(https://www.linkedin.com/in/ritesh-kumar-rgipt/)">
+<a href="(https://linkedin.com/in/ritesh-kumar-rgipt/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
