@@ -12,7 +12,7 @@
 - 📚 Currently learning **Advanced DSA and Machine Learning**
 
 
-## 🚀 Tech Stack 
+## 🚀 Tech Stack
 
 ### 💻 Programming Languages
 <p>
@@ -21,19 +21,27 @@
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express"/>
 </p>
 
 ### 📊 Machine Learning & Data Science
-- 🤖 Scikit-learn  
-- 📊 Pandas & NumPy  
-- 📈 Matplotlib & Seaborn  
-- 🧹 Data Preprocessing  
-- 📉 Model Evaluation  
+- 🤖 **Scikit-learn**
+- 📊 **Pandas**
+- 🔢 **NumPy**
+- 📈 **Matplotlib**
+- 📉 **Seaborn**
+- 🧹 **Data Preprocessing**
+- 📊 **Exploratory Data Analysis (EDA)**
+- 📉 **Model Evaluation**
 
-### 🗄 Databases & Tools
+### 🗄 Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### 🛠 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 
