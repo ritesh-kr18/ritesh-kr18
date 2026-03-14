@@ -45,11 +45,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-kr18&show_icons=true&theme=tokyonight)
-
-
 ## 🌐 Connect With Me
 <p>
   
