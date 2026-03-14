@@ -49,11 +49,8 @@
 
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesh-kr18&show_icons=true&theme=tokyonight)
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritesh-kr18&theme=tokyo-night)
 
 ## 🌐 Connect With Me
 
-- LinkedIn: ([add your linkedin link](https://www.linkedin.com/in/ritesh-kumar-rgipt/))
+- LinkedIn: (https://www.linkedin.com/in/ritesh-kumar-rgipt/)
 - Email: riteshsonb18@gmail.com
